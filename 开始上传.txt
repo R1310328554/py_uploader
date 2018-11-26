@@ -1,0 +1,46 @@
+Request URL:https://om.qq.com/VideoUpload/FtnReady?g_tk=
+
+
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	</head>
+	<body>
+		<script type="text/javascript">
+		document.domain="qq.com";
+		frameElement.callback({"checkkey":"8bbb58730c1b0f872fd2bc42660cc3982f046475fb6ada9fcdaa3265b4d0a9ff19745297d8cd67557543d504cf456b1d3df1759a281e2ea0f335c809d8e7cb6ffcaf095ffe6d49bf695eb9022d4cdcd0dd336d3dba8b5c4850ad66090839f5d90ed372decf91ae41fb79fe2828c3f77bc91f969ad82d09832ac405832a9ec8bbb9076f6783e2327dfab8815fce1768f8e8fb592b2b4020415acdc2a60a98285c10d6eca8dc6b87ff9f9e046d51481a77252a6498a95380ecb1846da6168fc46c1ab95637381d2678ba32d4a8b5321ce93326c9576c390076888151dd260f26ed8b0a25e51cd91539e1b96376e44ebac3ca22bae4edabd51fa62b598513175d9a694607ae4bd5e4eef0474c9f8cc0eb5da3a9920503958d7d48c2f78f3a78da58ebb55b931ea9f87da94b636b735679dc","dupli_info":null,"s":"o","serverip":"sh.ugc.ftn.qq.com","serverport":80,"uin":3446009114,"vid":"d0691y3s6wv"});
+		</script>
+	</body>
+</html>
+<!-- 0.836:0 -->
+		
+		
+		
+
+
+qzreferrer:https://om.qq.com/article/articlePublish#/!/view:article?typeName=multivideos
+vid:
+type:24
+tags:
+cid:
+bid:open_omg_video
+platform:web
+cat:
+desc:
+act:
+title:
+folder:
+orifname:“人工智能”时速破200迈爆表节奏，看了几十遍才看明白_1.mp4
+size:6082217
+uptype:4
+sha:1a070307b3dd8a1fe34fb2630182e73fd4f3c3d8
+sha3:
+md5:f89bfff55c472a3f751251362acb32a9
+key:
+addrtype:1
+open_uid:5171401
+open_token:2ae8b7bc10
+uin:0
+encuin:
+g_tk:
+otype:json

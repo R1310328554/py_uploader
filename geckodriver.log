@@ -1,0 +1,44 @@
+1529726992819	geckodriver	INFO	geckodriver 0.20.1
+1529726992844	geckodriver	INFO	Listening on 127.0.0.1:53593
+1529726995889	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ada\\AppData\\Local\\Temp\\rust_mozprofile.cDfvRG150lau"
+1529727002352	Marionette	INFO	Listening on port 53610
+1529727002726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529727121422	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1529727133426	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GPU 6148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1529728133753	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ada\\AppData\\Local\\Temp\\rust_mozprofile.FPSH7uFaa0IT"
+1529728138891	Marionette	INFO	Listening on port 57527
+1529728139102	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529729298713	geckodriver	INFO	geckodriver 0.20.1
+1529729298740	geckodriver	INFO	Listening on 127.0.0.1:54868
+1529729301763	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ada\\AppData\\Local\\Temp\\rust_mozprofile.37QiAFFyrZNI"
+1529729306972	Marionette	INFO	Listening on port 54880
+1529729307252	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8148, Chrome_ChildT[Parent 7044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529730609582	geckodriver	INFO	geckodriver 0.20.1
+1529730609610	geckodriver	INFO	Listening on 127.0.0.1:53344
+1529730612677	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ada\\AppData\\Local\\Temp\\rust_mozprofile.wGdN1rhtzvEN"
+1529730620691	Marionette	INFO	Listening on port 53359
+1529730621051	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
